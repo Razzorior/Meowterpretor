@@ -1,2 +1,2 @@
 # Meowterpretor
-An ASL Interpreter that is more Memes than useful
+An AST Interpreter that is more Memes than useful
